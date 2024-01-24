@@ -56,6 +56,6 @@ ul {
     background-color: #555;
     color: rgb(204, 68, 0);
   }
-  img {
-    border-radius: 12px;
+  .logo {
+    border-radius:1000px;
   }

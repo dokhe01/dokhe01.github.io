@@ -56,3 +56,11 @@ ul {
     background-color: #555;
     color: rgb(204, 68, 0);
   }
+  h3{
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+    background-color: rgb(204, 68, 0);
+    border-radius: 12px;
+    width: fit-content;
+    margin: auto;
+  }
